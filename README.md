@@ -1,4 +1,4 @@
-# Lab_Prosjekt_1
+# Lab_Prosjekt
 Repo for første lab prosjekt (linjefølge robot)
 ###############################################
 
