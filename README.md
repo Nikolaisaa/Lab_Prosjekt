@@ -1,6 +1,8 @@
 # Lab_Prosjekt_1
 Repo for første lab prosjekt (linjefølge robot)
-################################################################################################################################
+###############################################
 
-Alle endringer til prosjektet må informerast om her:
+* Sett opp / oppdater / rediger to-do liste i "Issues" tab oppe til venstre.
+
+* Kode må endrast ved å "branche ut" av main, for å opprettholde struktur og system i kode og endringer.
 
