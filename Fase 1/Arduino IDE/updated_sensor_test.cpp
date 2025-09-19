@@ -54,7 +54,7 @@ void setup()
   Serial.begin(9600);
   qtr.setTypeRC();
   qtr.setSensorPins((const uint8_t[]){12,11,10, 9, 8, 7, 6, 5,4,3,2}, sensorCount);
-  // sensor value                     22,20,18,16,14,13,12,10,8,6,4
+  // correlating sensor               22,20,18,16,14,13,12,10,8,6,4
 }
 
 void loop()
