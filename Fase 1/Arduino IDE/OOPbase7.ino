@@ -124,7 +124,7 @@ void setMotorSpeed(int* motorSpeeds){
 
 const int sensorCount = 11;
 uint8_t sensorPins[] = {12,11,10, 9, 8, 7, 6, 5,4,3,2};
-uint16_t sensorThresholds[] = {400,400,400,400,400,400,400,400,400,400,400};
+uint16_t sensorThresholds[] = {250,250,250,250,250,250,250,250,250,250,250};
 const int rightMotorPin = A0;
 const int leftMotorPin = A1;
 const int AIN1 = A4;
